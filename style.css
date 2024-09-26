@@ -31,7 +31,7 @@ body {
 /* Background blur */
 
 #sect1::before {
-  background-image: url(/pics/ft1.jpeg);
+  background-image: url(./pics/ft1.jpeg);
   content: '';
   position: relative;
   top: 0;
